@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+***written on 3/1/2022***
+# [Dragon Force Malaysia WhiteHat Selection 2022.](https://dragonforce.io/threads/whitehat-crew-selection-open-now.9011/)
+![This is an image](/gif1.gif)
+#### INTRODUCTION
+![This is an image](/gambar2.jpg)
 
-You can use the [editor on GitHub](https://github.com/azwar69-wh/azwar69.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### category: tutorial (10 point)
+![This is an image](/gambartutorial.jpg)
+I have received instructions. ```We do this for fun but yet for a serious matter. Please dont bruteforce the flag or try to pentest the site. No DDOS to the site please.```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+ME: ```I understand and will not commit such conduct```
+#### Flag ```WHC{I_Agree_To_The_Terms}```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### category 2 : Cryptography (10 point)
+![This is an image](/beginnercrypto.jpg)
+i have received a question to decode base64 to flags
 
-```markdown
-Syntax highlighted code block
+```YmFzZTY0X2lzX292ZXJyYXRlZA==```
 
-# Header 1
-## Header 2
-### Header 3
+I have used the online tool from https://www.base64decode.org/
+![This is an image](/8ac99993-61f3-4925-8d13-8727764e780c.jpg)
 
-- Bulleted
-- List
+set source character i select **AUTO-SELECT.** 
+after that I press the **DECODE** button.
+after that I get the answer base64_is_overrated.
+#### Flag ```WHC{base64_is_overrated}```
 
-1. Numbered
-2. List
+### category 3 : Dark Web (50 poin)
+![This is an image](/gambator.jpg)
 
-**Bold** and _Italic_ and `Code` text
+#### I was first given a browser tor link to find out the malicious information
+LINK ```http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/aRr1wftJbeX7cMjQ```
 
-[Link](url) and ![Image](src)
-```
+after that I paste the link in the browser tor then I get it. ```WHC{D4RK_W3B_B3NG1NN3R}```
+![This is an image](/e96be350-4165-427c-9bda-003a66366a77.jpg)
+then I think this is not the flag because just paste the link and get the flag.but I tried it for once only and the flag was correct
+#### FLAG ```WHC{D4RK_W3B_B3NG1NN3R}```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azwar69-wh/azwar69.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
